@@ -1,4 +1,4 @@
-# ParallelMinFinder
+# Parallel Minimum Finder
 
 ## Overview
 
