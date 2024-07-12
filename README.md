@@ -14,8 +14,7 @@ This repository contains the parallel implementation of finding the minimum valu
    - [SIMD](#simd)
 4. [Results](#results)
 5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
+6. [License](#license)
 
 ## Introduction
 
@@ -79,3 +78,7 @@ g++ -pthread -o POSIXMinFinder main.cpp
 g++ -msse -o SIMDMinFinder main.cpp -march=native
 ./SIMDMinFinder
 ```
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
